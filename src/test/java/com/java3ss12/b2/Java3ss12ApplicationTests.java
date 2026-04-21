@@ -1,10 +1,10 @@
-package com.example.java3ss12;
+package com.java3ss12.b2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PtitCntt2It210Ss12Ex1ApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
